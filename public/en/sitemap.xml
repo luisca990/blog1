@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>luisca990.github.io/categories/</loc>
+    <loc>https://luisca990.github.io/blog1/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="luisca990.github.io/fr/categories/"
+                href="https://luisca990.github.io/blog1/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="luisca990.github.io/categories/"
+                href="https://luisca990.github.io/blog1/categories/"
                 />
   </url><url>
-    <loc>luisca990.github.io/</loc>
+    <loc>https://luisca990.github.io/blog1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="luisca990.github.io/fr/"
+                href="https://luisca990.github.io/blog1/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="luisca990.github.io/"
+                href="https://luisca990.github.io/blog1/"
                 />
   </url><url>
-    <loc>luisca990.github.io/series/</loc>
+    <loc>https://luisca990.github.io/blog1/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="luisca990.github.io/fr/series/"
+                href="https://luisca990.github.io/blog1/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="luisca990.github.io/series/"
+                href="https://luisca990.github.io/blog1/series/"
                 />
   </url><url>
-    <loc>luisca990.github.io/tags/</loc>
+    <loc>https://luisca990.github.io/blog1/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="luisca990.github.io/fr/tags/"
+                href="https://luisca990.github.io/blog1/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="luisca990.github.io/tags/"
+                href="https://luisca990.github.io/blog1/tags/"
                 />
   </url>
 </urlset>
